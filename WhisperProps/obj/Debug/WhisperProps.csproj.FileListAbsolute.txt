@@ -1,7 +1,0 @@
-C:\Users\Legionite\Desktop\WhisperProps\WhisperProps\WhisperProps\bin\Debug\WhisperProps.dll
-C:\Users\Legionite\Desktop\WhisperProps\WhisperProps\WhisperProps\bin\Debug\WhisperProps.pdb
-C:\Users\Legionite\Desktop\WhisperProps\WhisperProps\WhisperProps\obj\Debug\WhisperProps.csprojAssemblyReference.cache
-C:\Users\Legionite\Desktop\WhisperProps\WhisperProps\WhisperProps\obj\Debug\WhisperProps.csproj.CoreCompileInputs.cache
-C:\Users\Legionite\Desktop\WhisperProps\WhisperProps\WhisperProps\obj\Debug\WhisperProps.dll
-C:\Users\Legionite\Desktop\WhisperProps\WhisperProps\WhisperProps\obj\Debug\WhisperProps.pdb
-C:\Users\Legionite\Desktop\WhisperProps\WhisperProps\WhisperProps\bin\Debug\mod.json
