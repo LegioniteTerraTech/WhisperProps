@@ -8,7 +8,7 @@ namespace WhisperProps
         public static void Silence()
         {
             //Initiate the madness
-            HarmonyInstance harmonyInstance = HarmonyInstance.Create("legionite.whisperprops.core");
+            HarmonyInstance harmonyInstance = HarmonyInstance.Create("legionite.whisperprops");
             harmonyInstance.PatchAll(Assembly.GetExecutingAssembly());
         }
     }
