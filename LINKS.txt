@@ -1,1 +1,1 @@
-https://github.com/LegioniteTerraTech/WhisperProps/tree/master/WhisperProps/bin/Debug
+https://github.com/LegioniteTerraTech/WhisperProps/tree/master/WhisperProps/bin/Release
