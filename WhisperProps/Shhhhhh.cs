@@ -10,7 +10,7 @@ namespace WhisperProps
             //Initiate the madness
             HarmonyInstance harmonyInstance = HarmonyInstance.Create("legioniteterratech.whisperprops");
             harmonyInstance.PatchAll(Assembly.GetExecutingAssembly());
-        }
+        } 
     }
     internal class Patches
     {
