@@ -1,7 +1,7 @@
 ﻿{
-  "Id": "legionite.whisperprops",
+  "Id": "legioniteterratech.whisperprops",
   "DisplayName": "Whisper Props",
-  "Author": "Legionite",
+  "Author": "LegioniteTerraTech",
   "Version": "0.1.0",
   "Enable": true,
   "AssemblyName": "WhisperProps.dll",
