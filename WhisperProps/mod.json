@@ -2,7 +2,7 @@
   "Id": "legioniteterratech.whisperprops",
   "DisplayName": "Whisper Props",
   "Author": "LegioniteTerraTech",
-  "Version": "0.1.0",
+  "Version": "1.0.0.0",
   "Enable": true,
   "AssemblyName": "WhisperProps.dll",
   "EntryMethod": "WhisperProps.Shhhhhh.Silence"
