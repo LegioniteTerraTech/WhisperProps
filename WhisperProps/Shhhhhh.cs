@@ -1,5 +1,5 @@
 ﻿using System.Reflection;
-using Harmony;
+using HarmonyLib;
 
 namespace WhisperProps
 {
@@ -8,7 +8,7 @@ namespace WhisperProps
         public static void Silence()
         {
             //Initiate the madness
-            HarmonyInstance harmonyInstance = HarmonyInstance.Create("legioniteterratech.whisperprops");
+            Harmony harmonyInstance = new Harmony("legioniteterratech.whisperprops");
             harmonyInstance.PatchAll(Assembly.GetExecutingAssembly());
         }
     }
